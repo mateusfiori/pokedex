@@ -1,0 +1,42 @@
+#fundo {
+    height: 900px;
+    background-color: #001057;
+   padding: 200px;
+   
+}
+
+#show {
+    height: 500px;
+    width: 300px;
+    background-color: #b90000;  
+    margin: auto;
+}
+
+img {
+    margin-left: 60px;
+
+}
+
+#descricao {
+
+    height: 250px;
+    margin-top: 45px;
+}
+
+p {
+
+font-size: 250%;
+
+}
+
+#botao {
+    margin-top: 90px;
+    margin-left: 150px;
+}
+
+#botao_volta {
+
+    margin-top: -50px;
+    margin-left: -10px;
+
+}
